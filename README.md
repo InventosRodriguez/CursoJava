@@ -1,2 +1,2 @@
 # CursoJava
-Clases creadas en el curso de java de mgt 2017
+Clases para prácticar el curso de java de mgt 2017
